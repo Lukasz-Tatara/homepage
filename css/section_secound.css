@@ -1,0 +1,42 @@
+
+.table__capition {
+    font-size: 30px;
+    font-family: "Roboto Condensed, sans-serif";
+    margin: 0 20px 100px 20px;
+}
+
+.table {
+
+    border-collapse: collapse;
+    margin: 0 auto;
+
+    
+}
+
+.section__secound {
+    width: 100%;
+    /* overflow-x: scroll; */
+}
+
+.tableCell {
+    font-size: 20px;
+    padding: 20px 40px;
+    border: 2px solid rgba(24, 32, 39, 0.432);
+    text-align: center;
+    color: #ccc;
+}
+
+.row:nth-child(even){
+    background-color: rgba(0, 140, 255, 0.274);
+}
+
+.row:hover {
+    background-color: rgba(0, 119, 255, 0.178);
+
+}
+
+
+.tableHeader {
+    background-color: rgba(31, 230, 180, 0.253);
+    color: #eee;
+}

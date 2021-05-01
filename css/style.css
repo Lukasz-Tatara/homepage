@@ -1,0 +1,17 @@
+html {
+    width: 100%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+body {
+    color: white;
+    background-color: rgba(0, 55, 87, 0.747);
+    font-family: "Roboto Condensed, sans-serif";
+}

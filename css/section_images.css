@@ -1,0 +1,38 @@
+
+.section__images{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.images__element {
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.image {
+    max-width: 800px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.images__header {
+    text-align: center;
+    line-height: 50px;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.paragraph--imageHeader {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.showOff {
+    display: none;
+}
+
+.showOn {
+    display: block;
+}
