@@ -5,7 +5,7 @@ https://lukasz-tatara.github.io/homepage/
 ## Opis
 This page is my business card made as part of the youcode course. You can learn a few things about me there. I heartily invite you to view my website.
 
-## Technology used on page:
+## Technology used on my page:
     -ES6+
     -HTML
     -BEM
